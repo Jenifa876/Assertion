@@ -11,7 +11,7 @@ If the assertion fails (i.e., `n <= 0`), the program will throw an `AssertionErr
 - Decrements a static variable `a` in a loop and verifies its value using assertions.
 - Outputs the current value of `n` if the assertion passes.
 
-# Expected Output
+## Expected Output
 When running the program with assertions enabled (-ea flag):
 n is 3
 n is 2
@@ -32,7 +32,7 @@ n is -4
 n is -5
 n is -6
 
-# Key Points
+## Key Points
 **Assertions:**
 
 Assertions are used for testing assumptions in the code.
